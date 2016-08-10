@@ -1,0 +1,22 @@
+{
+  "name": "error-context",
+  "version": "1.0.0",
+  "description": "An error context generator similer to pug errors ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/arashmilani/error-context.git"
+  },
+  "keywords": [
+    "error"
+  ],
+  "author": "Arash Milani <me@arashmilani.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arashmilani/error-context/issues"
+  },
+  "homepage": "https://github.com/arashmilani/error-context#readme"
+}
