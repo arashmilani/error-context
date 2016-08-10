@@ -1,7 +1,7 @@
 {
   "name": "error-context",
   "version": "1.0.0",
-  "description": "An error context generator similer to pug errors ",
+  "description": "An error context generator similar to pug errors",
   "main": "index.js",
   "scripts": {
     "test": "npm test"
